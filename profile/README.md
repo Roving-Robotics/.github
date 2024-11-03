@@ -16,6 +16,7 @@ Here are some of the resources I've used to get where I am and learn what I have
 - **Math Foundations**
     - [Kahn Academy Linear Algebra (algebraically)](https://www.khanacademy.org/math/linear-algebra)
     - [3Blue1Brown Linear Algebra (visuially)](https://www.3blue1brown.com/topics/linear-algebra)
+    -     [Special Shoutout for Jacobians]()
     - [Linear Albegra using Engineering](https://see.stanford.edu/Course/EE263)
 - **Robotics Fundamentals**
     - [MIT OpenCourseWare – Introduction to Robotics](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/)
