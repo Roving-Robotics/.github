@@ -8,12 +8,20 @@ There are a lot of things in robotics that aren't that hard to learn, but you ne
 
 Here are some of the resources I've used to get where I am and learn what I have:
 - **Math Foundations**
-    - [Kahn Academy Linear Algebra (algebraically)](https://www.khanacademy.org/math/linear-algebra)
-    - [3Blue1Brown Linear Algebra (visuially)](https://www.3blue1brown.com/topics/linear-algebra)
-    - [Stanford LinAlg Course](https://see.stanford.edu/Course/EE263)
+    - Linear Algebra
+        - [Kahn Academy Linear Algebra (algebraically)](https://www.khanacademy.org/math/linear-algebra)
+        - [3Blue1Brown Linear Algebra (visuially)](https://www.3blue1brown.com/topics/linear-algebra)
+        - [Stanford LinAlg Course](https://see.stanford.edu/Course/EE263)
+    - Optimization Algorithms: 
+        - [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+        - [Kalman Filtering](https://en.wikipedia.org/wiki/Kalman_filter)
+    - Navigation Algorithms:
+        - [Particle Swarm Optimization (PSO)](https://en.wikipedia.org/wiki/Particle_swarm_optimization)
+        - [PSO Explained (YouTube)](https://www.youtube.com/watch?v=JhgDMAm-imI)
 - **Robotics Fundamentals**
     - [MIT OpenCourseWare – Introduction to Robotics](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/)
-    - [ROS Documentation (and Tutorials!)](http://wiki.ros.org/ROS/Tutorials)
+    - [ROS Official Documentation](http://wiki.ros.org/ROS/Tutorials)
+    - [ROS setup/explained](https://www.rosroboticslearning.com/basics-of-ros)
 - **Design Essentials**
     - [507 Mechanical Movements](https://507movements.com)
     - [McMaster-Carr](https://www.mcmaster.com)
