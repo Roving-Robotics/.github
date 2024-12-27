@@ -1,12 +1,9 @@
-# Roving Robotics 🤖
-
-**Welcome to Roving Robotics!**
+# Welcome to Roving Robotics!
 
 There are a lot of things in robotics that aren't that hard to learn, but you need to know where to start. This Repo is a consolidation of basic skills for advanced robotics that anyone can learn online in less than an hour.
 
-# Free Robotics Learning Resources 📚
-
 Here are some of the resources I've used to get where I am and learn what I have:
+
 ## Math Foundations
 - Linear Algebra
     - [Kahn Academy Linear Algebra (algebraically)](https://www.khanacademy.org/math/linear-algebra)
