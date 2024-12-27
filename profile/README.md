@@ -27,7 +27,7 @@ Here are some of the resources I've used to get where I am and learn what I have
 - [MotionGen - Simulation of linkages](https://motiongen.io)
 ## SolidWorks
 ### Basics
-- 
+- [total basics](https://www.youtube.com/watch?v=CiBwrjUeB8U)
 ### Certified SolidWorks Associate (CSWA)
 - [Solidworks CSWA Prep Youtube](https://www.youtube.com/playlist?list=PLE5C6B3135D7D277F)
 - [Solidworks CSWA Practice Test](https://www.solidworks.com/sites/default/files/2017-12/CSWASampleExam.pdf)
