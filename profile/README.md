@@ -1,6 +1,6 @@
 # Welcome to Roving Robotics!
 
-There are a lot of things in robotics that aren't that hard to learn, but you need to know where to start. This Repo is a consolidation of basic skills for advanced robotics that anyone can learn online in less than an hour.
+There are many things in robotics that aren't that hard to learn, but you need to know where to start. This Repo is a consolidation of basic skills for advanced robotics that anyone can learn online in less than an hour.
 
 Here are some of the resources I've used to get where I am and learn what I have:
 
@@ -12,8 +12,13 @@ Here are some of the resources I've used to get where I am and learn what I have
 - Numerical Methods
     - [Numerical Methods Youtube Playlist](https://www.youtube.com/playlist?list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab)
 - Optimization Algorithms: 
-    - [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
-    - [Kalman Filtering](https://en.wikipedia.org/wiki/Kalman_filter)
+        - [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+        - [Kalman Filtering](https://en.wikipedia.org/wiki/Kalman_filter)
+    - Non-convex Optimization
+        - [Simulated Annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+     
+    - Linear-constrained optimization
+        - [Simplex algorithm](https://en.wikipedia.org/wiki/Simplex_algorithm)
 - Navigation Algorithms:
     - [Particle Swarm Optimization (PSO)](https://en.wikipedia.org/wiki/Particle_swarm_optimization)
     - [PSO Explained (YouTube)](https://www.youtube.com/watch?v=JhgDMAm-imI)
