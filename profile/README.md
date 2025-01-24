@@ -12,6 +12,10 @@ Here are some of the resources I've used to get where I am and learn what I have
 - Numerical Methods
     - [Numerical Methods Youtube Playlist](https://www.youtube.com/playlist?list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab)
 - Optimization Algorithms: 
+    - Convex Optimization
+        - Gradient Descent
+        - Newton Raphson
+        - Conjugate gradient
         - [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
         - [Kalman Filtering](https://en.wikipedia.org/wiki/Kalman_filter)
     - Non-convex Optimization
